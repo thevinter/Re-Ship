@@ -64,14 +64,13 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-[Aa]ssets/[Ss]treamingAssets/aa.meta
-[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
 
 [Aa]ssets/Resources
-[Aa]ssets/
 Assets/SourceHanMono-Normal SDF.asset
 Assets/VCR_OSD_MONO_1.asset
 Assets/test.asset
